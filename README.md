@@ -12,4 +12,4 @@ To integrate this model with iOS, Apple provides a framework, Core ML. On **[dia
 
 ## App Preview
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtr1ske8x6g609i0kgq8c02.gif" alt="converter" width="230" height="500" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtr1ske8x6g609i0kgq8c02.gif" alt="converter" />
